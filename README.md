@@ -2,7 +2,7 @@
 
 Welcome to my Power BI dashboard project designed for a manufacturing company specializing in **cycling equipment**. This interactive report was built to empower the executive and analytics teams with actionable insights, track performance KPIs, and support data-driven decisions across product lines and regions.
 
-[Sales Performance Deep Dive Dashboard](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Sales%20Performance%20Dashboard.pbix)
+[Sales Performance Dashboard](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Sales%20Performance%20Dashboard.pbix)
 
 > 🧠 **Objective**: To enable the management team to monitor revenue trends, customer segmentation, return rates, and regional performance through a clean, intuitive Power BI interface.
 
@@ -53,15 +53,15 @@ The dashboard is structured into **four main pages**, each with a distinct analy
 | **Component**     | **Details**                                              |
 |-------------------|----------------------------------------------------------|
 | **📁 Data Sources** |                                                          |
-|                   | ├── AdventureWorks [Sales Data 2020](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Sales%20Data%202020.csv) / [Sales Data 2021](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Sales%20Data%202021.csv)/ [Sales Data 2022](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Sales%20Data%202022.csv)        |
-|                   | ├── [Calendar Lookup](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Calendar%20Lookup.csv)                                      |
-|                   | ├── [Customer Lookup](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Customer%20Lookup.csv)                                       |
-|                   | ├── [Product Categories](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Product%20Categories%20Lookup.csv) / [Subcategories Lookup](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Product%20Subcategories%20Lookup.csv)            |
-|                   | ├── [Product Lookup](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Product%20Lookup.csv)                                        |
-|                   | ├── [Territory Lookup](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Territory%20Lookup.csv)                                      |
-|                   | └── [Returns Data](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Returns%20Data.csv)                                          |
+|                   | ├── AdventureWorks [Sales Data 2020](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Sales%20Data%202020.csv) / [Sales Data 2021](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Sales%20Data%202021.csv)/ [Sales Data 2022](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Sales%20Data%202022.csv)        |
+|                   | ├── [Calendar Lookup](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Calendar%20Lookup.csv)                                      |
+|                   | ├── [Customer Lookup](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Customer%20Lookup.csv)                                       |
+|                   | ├── [Product Categories](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Product%20Categories%20Lookup.csv) / [Subcategories Lookup](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Product%20Subcategories%20Lookup.csv)            |
+|                   | ├── [Product Lookup](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Product%20Lookup.csv)                                        |
+|                   | ├── [Territory Lookup](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Territory%20Lookup.csv)                                      |
+|                   | └── [Returns Data](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Returns%20Data.csv)                                          |
 | **📊 Power BI File** |                                                          |
-|                   | └── [Sales Performance Deep Dive Dashboard](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/Sales%20Performance%20Deep%20Dive%20Dashboard%20(Power%20BI%20Only).pbix)    |
+|                   | └── [Sales Performance Dashboard](https://github.com/MkoliRock/Sales_Performance_Analysis/blob/main/Sales%20Performance%20Dashboard.pbix)    |
 
 
 
